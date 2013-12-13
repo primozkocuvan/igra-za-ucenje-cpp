@@ -35,7 +35,7 @@ Potrebno je še dodati:
 Licenca
 -------------------------
 
-Version 2, June 1991
+GPL Version 2, June 1991
 
 ```
 Copyright (C) 1991 Free Software Foundation, Inc.
