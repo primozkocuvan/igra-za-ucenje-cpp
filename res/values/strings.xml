@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Igra za ucenje CPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="title_activity_ingame">IngameActivity</string>
+    <string name="title_activity_instructions">InstructionsActivity</string>
+
+</resources>
